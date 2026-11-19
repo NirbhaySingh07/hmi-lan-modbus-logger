@@ -1,0 +1,17 @@
+# Logged CSV data (keep local, do not commit)
+csv_logs/
+*.csv
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+modbus_env/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
